@@ -1,0 +1,35 @@
+Primer Ejemplo
+
+A B 2
+A C 1
+B D 3
+B C 2 
+C D 3 
+C E 1 
+D E 1
+E F 2 
+D F 5 
+
+
+solo sustituir LOS DATOS con el otro txt para remplazar el ejemplo
+
+
+/////////
+Segundo Ejemplo
+
+A B 2
+A G 6
+B E 2
+B C 7
+G E 1
+E F 2
+F C 3
+C D 3
+F H 2
+G H 4
+H D 2
+
+
+//////
+
+De igual forma se pueden poner cualquier tipo de Ruteo de red simplemente se debe colocar la union de nodos con el costo y sustituirlo en el txt djikstra_Routing
